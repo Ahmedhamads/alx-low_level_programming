@@ -1,5 +1,6 @@
 #include<stido.h>
 #include<unistd.h>
+gcc -wall
 /**
  * main A c program that prints aline to the standard error
  * Return 1 (Success)
