@@ -1,6 +1,5 @@
-#include<stido.h>
-#include<unistd.h>
-
+#include <stido.h>
+#include <unistd.h>
 /**
  * main -Entry point
  * Return: Always 1 (Success)
