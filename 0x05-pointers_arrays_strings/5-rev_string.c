@@ -1,5 +1,6 @@
 include "main.h"
-/**
+#include <stdio.h>
+/s**
  * rev_string - Reverses a string
  * @s: Input string
  * Return: String in reverse
